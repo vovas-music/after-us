@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/after-us
 ## Files
 
 - `after-us_mix.mp3` — the mix, unmastered: what the master was made from.
-- `after-us.mp3` — the master, as the site plays it.
+- `за_обложкой - После нас.mp3` — the master, as the site plays it.
 - `after-us.mp4` — the music video.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
